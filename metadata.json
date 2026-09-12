@@ -1,0 +1,6 @@
+{
+  "name": "Gen-z Ai Studio",
+  "description": "Multimodal AI vision tool to generate accurate image recreation prompts and microstock metadata (CSV/TXT) for Adobe Stock, Shutterstock, Freepik, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
